@@ -34,7 +34,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "app/components/develop/Prose.jsx"
+    "app/components/develop/Prose.jsx",
+    "build/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"

@@ -44,6 +44,7 @@ const nextConfig = {
     ]
   },
   output: 'standalone',
+  distDir: 'build',
 }
 
 module.exports = withMDX(nextConfig)
